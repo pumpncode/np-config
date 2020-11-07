@@ -1,0 +1,24 @@
+{
+	"name": "@pumpn/np-config",
+	"version": "0.1.0",
+	"description": "standard np config for pumpn code projects",
+	"main": "index.js",
+	"repository": "https://github.com/pumpncode/np-config/",
+	"author": "nnmrts <nanomiratus@gmail.com>",
+	"license": "MIT",
+	"private": false,
+	"type": "module",
+	"peerDependencies": {
+		"np": "^7.0.0"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.12.3",
+		"@pumpn/babel-preset": "^2.0.0",
+		"@pumpn/eslint-config": "^6.0.0",
+		"eslint": "^7.12.1",
+		"np": "^7.0.0"
+	},
+	"scripts": {
+		"release": "np"
+	}
+}

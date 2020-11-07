@@ -3,7 +3,7 @@
 	"version": "0.1.0",
 	"description": "standard np config for pumpn code projects",
 	"main": "index.js",
-	"repository": "https://github.com/pumpncode/np-config/",
+	"repository": "pumpncode/np-config",
 	"author": "nnmrts <nanomiratus@gmail.com>",
 	"license": "MIT",
 	"private": false,

@@ -1,6 +1,6 @@
 {
 	"name": "@pumpn/np-config",
-	"version": "2.3.0",
+	"version": "2.3.1",
 	"description": "standard np config for pumpn code projects",
 	"main": "index.cjs",
 	"repository": "pumpncode/np-config",

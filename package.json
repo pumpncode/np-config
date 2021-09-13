@@ -9,14 +9,14 @@
 	"private": false,
 	"type": "module",
 	"peerDependencies": {
-		"np": "^7.4.0"
+		"np": "^7.5.0"
 	},
 	"devDependencies": {
-		"@babel/core": "^7.13.10",
-		"@pumpn/babel-preset": "^3.2.0",
-		"@pumpn/eslint-config": "^10.2.3",
-		"eslint": "^7.21.0",
-		"np": "^7.4.0"
+		"@babel/core": "^7.15.5",
+		"@pumpn/babel-preset": "^3.2.1",
+		"@pumpn/eslint-config": "^10.4.0",
+		"eslint": "^7.32.0",
+		"np": "^7.5.0"
 	},
 	"scripts": {
 		"release": "np",
